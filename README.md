@@ -4,7 +4,6 @@
 
 - <b>S3 object encryption</b>
   - [Encyrpting S3 Objects using SSE-KMS](Link)
-- <b>S3 object encryption</b>
-  - [Encyrpting S3 Objects using SSE-KMS](Link)
+
 
 
