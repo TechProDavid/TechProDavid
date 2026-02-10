@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS architecture Projects:</h2>
 
 - <b>S3 object encryption</b>
-  - [Encyrpting S3 Objects using SSE-KMS](Link)
+  - [Encyrpting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
 
 
 
