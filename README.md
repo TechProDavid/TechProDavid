@@ -4,6 +4,8 @@
 
 - <b>S3 object encryption</b>
   - [Encrypting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
+- <b>IAM security - Best practices</b>
+  - [Securing Environment using Permissions, Roles and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
 
 <h2>📄 Certifications:</h2>
 
