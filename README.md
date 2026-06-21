@@ -3,7 +3,7 @@
 <h2>🛡️ Blue Team Path </h2>
 
 - <b>Security Operations Center </b>
- - [Alerts Triage & Reporting]()
+ - [Alerts Triage & Reporting (In progress...)]()
 
 <h2>☁️🔒 AWS Cloud security project</h2>
 
