@@ -1,5 +1,8 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
   
+<h2>🛡️ SOC Analyst Path </h2>
+- <b>Alerts - Triage and Reporting </b>
+
 <h2>☁️🔒 AWS Cloud security project</h2>
 
 - <b>CloudWatch Agent & Command Line Interface: </b>
@@ -13,8 +16,6 @@
 - <b>IAM security - Best practices</b>
   - [Securing Environment using Permissions, Roles and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
   - [Business Security Challenge (Video)](https://youtu.be/UwOw46MIA3Q)
-
-<h2>🛡️ SOC Analyst Path </h2>
 
 <h2>📄 Certifications:</h2>
 
