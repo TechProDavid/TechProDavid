@@ -5,6 +5,7 @@
   - [Creating a security alarm system in the cloud and testing]()
   
 <h2>👨‍💻 AWS architecture Projects:</h2>
+
 - <b>S3 object encryption</b>
   - [Encrypting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
 - <b>IAM security - Best practices</b>
