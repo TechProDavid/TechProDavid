@@ -1,6 +1,6 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
   
-<h2>👨‍💻 AWS Cloud security project</h2>
+<h2>☁️🔒 AWS Cloud security project</h2>
 
 - <b>CloudWatch Agent & Command Line Interface: </b>
   - [Creating a security alarm system in the cloud and testing]([https://github.com/TechProDavid/Cloud-Security.git](https://github.com/TechProDavid/Cloud-Security/tree/main#cloudwatch-detection-and-testing))
