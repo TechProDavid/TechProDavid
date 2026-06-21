@@ -1,7 +1,9 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
   
-<h2>🛡️ SOC Analyst Path </h2>
-- <b>Alerts - Triage and Reporting </b>
+<h2>🛡️ Blue Team Path </h2>
+
+- <b>Security Operations Center </b>
+ - [Alerts Triage & Reporting]()
 
 <h2>☁️🔒 AWS Cloud security project</h2>
 
@@ -14,7 +16,7 @@
   - [Encrypting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
     
 - <b>IAM security - Best practices</b>
-  - [Securing Environment using Permissions, Roles and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
+  - [Securing Environment using Permissions, Roles, and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
   - [Business Security Challenge (Video)](https://youtu.be/UwOw46MIA3Q)
 
 <h2>📄 Certifications:</h2>
