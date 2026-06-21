@@ -1,7 +1,10 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
-
+  
+<h2>👨‍💻 AWS Cloud security project</h2>
+- <b>CloudWatch Agent & Command Line Interface: </b>
+  - [Creating a security alarm system in the cloud and testing]()
+  
 <h2>👨‍💻 AWS architecture Projects:</h2>
-
 - <b>S3 object encryption</b>
   - [Encrypting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
 - <b>IAM security - Best practices</b>
