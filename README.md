@@ -14,6 +14,8 @@
   - [Securing Environment using Permissions, Roles and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
   - [Business Security Challenge (Video)](https://youtu.be/UwOw46MIA3Q)
 
+<h2>🛡️ SOC Analyst Path </h2>
+
 <h2>📄 Certifications:</h2>
 
   - [AWS Solutions Architect](https://www.credly.com/badges/6abbe848-a57c-4ac0-b40a-9a98deb6a727/public_url) 
