@@ -1,9 +1,5 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
-  
-<h2>🛡️ Blue Team Path </h2>
 
-- <b>Security Operations Center </b>
- - [Alerts Triage & Reporting (In progress...)]()
 
 <h2>☁️🔒 AWS Cloud security project</h2>
 
@@ -18,7 +14,12 @@
 - <b>IAM security - Best practices</b>
   - [Securing Environment using Permissions, Roles, and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
   - [Business Security Challenge (Video)](https://youtu.be/UwOw46MIA3Q)
+  
+<h2>🛡️ Blue Team Path </h2>
 
+- <b>Security Operations Center </b>
+   - [Alerts Triage & Reporting (In progress...)]()
+     
 <h2>📄 Certifications:</h2>
 
   - [AWS Solutions Architect](https://www.credly.com/badges/6abbe848-a57c-4ac0-b40a-9a98deb6a727/public_url) 
