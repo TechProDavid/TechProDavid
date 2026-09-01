@@ -1,37 +1,71 @@
-<h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
+# Welcome, I'm David-Aurel! 👋
 
-<h2>🤖 Machine Learning Systems </h2>
-- <b>AI Distributed Denial of Service Anomaly Detection System: </b>
-  - [AI/ML, cybersecurity, AWS architecture, SageMaker, DDoS defense, testing, project management](https://github.com/TechProDavid/AI-DDoS-Anomaly.git)
-  
-<h2>☁️ Cloud Architectures </h2>
-- <b> Cloud-Based Picture Archiving Solution - Research:</b>
-  - [Healthcare IT, system architecture, cloud computing, AI integration, DICOM, security/privacy, technical research]()
-  
-<h2>👨‍💻 Programming Languages</h2>
-- <b> Fortran & Java Coding: </b>
-  - [CJava, OOP, debugging, software testing, code translation, programming fundamentals]()
+[Cybersecurity Professional](https://www.linkedin.com/in/david-aurel-djako/) | [Cloud Architect](https://www.linkedin.com/in/david-aurel-djako/) | [Systems Engineer](https://www.linkedin.com/in/david-aurel-djako/)
 
-<h2>☁️🔒 AWS Cloud security project</h2>
+I build and analyze secure systems across **cybersecurity, cloud computing, AI/ML, healthcare technology, and software development**.
 
-- <b>CloudWatch Agent & Command Line Interface: </b>
-  - [Creating a security alarm system in the cloud and testing](https://github.com/TechProDavid/Cloud-Security.git)
+---
 
-- <b>S3 object encryption</b>
-  - [Encrypting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
-    
-- <b>IAM security - Best practices</b>
-  - [Securing Environment using Permissions, Roles, and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
-  - [Business Security Challenge (Video)](https://youtu.be/UwOw46MIA3Q)
-  
-<h2>🛡️ Blue Team Path </h2>
+## 🤖 Machine Learning Systems
 
-- <b>Security Operations Center </b>
-   - [Alerts Triage & Reporting (In progress...)]()
-     
-<h2>📄 Certifications:</h2>
+* **AI Distributed Denial of Service Anomaly Detection System**
 
-  - [AWS Solutions Architect](https://www.credly.com/badges/6abbe848-a57c-4ac0-b40a-9a98deb6a727/public_url) 
-  - [CompTIA Security+](https://www.credly.com/badges/c81b689a-c5b1-4b06-b3fd-c986c13c3555/public_url)
-  - [CompTIA Network+](https://www.credly.com/badges/5f5106c7-cecd-416c-9999-4e753f14b3c2/public_url) 
+  * [AI/ML, cybersecurity, AWS architecture, SageMaker, DDoS defense, testing, and project management](https://github.com/TechProDavid/AI-DDoS-Anomaly.git)
 
+---
+
+## ☁️ Cloud Architectures
+
+* **Cloud-Based Picture Archiving Solution (PACS) — Research**
+
+  * Healthcare IT, system architecture, cloud computing, AI integration, DICOM, security/privacy, and technical research
+  * 🚧 **Repository Coming Soon**
+
+---
+
+## 👨‍💻 Programming Languages
+
+* **Fortran & Java Coding**
+
+  * Java, OOP, debugging, software testing, code translation, and programming fundamentals
+  * 🚧 **Repository Coming Soon**
+
+---
+
+## ☁️🔒 AWS Cloud Security Projects
+
+* **CloudWatch Agent & Command Line Interface**
+
+  * [Creating a security alarm system in the cloud and testing](https://github.com/TechProDavid/Cloud-Security.git)
+
+* **S3 Object Encryption**
+
+  * [Encrypting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
+
+* **IAM Security — Best Practices**
+
+  * [Securing Environment using Permissions, Roles, and Policies](https://github.com/TechProDavid/IAM-security-AWS.git)
+  * [Business Security Challenge (Video)](https://youtu.be/UwOw46MIA3Q)
+
+---
+
+## 🛡️ Blue Team Path
+
+* **Security Operations Center**
+
+  * Alerts Triage & Reporting
+  * 🚧 **In Progress**
+
+---
+
+## 📄 Certifications
+
+* [AWS Solutions Architect](https://www.credly.com/badges/6abbe848-a57c-4ac0-b40a-9a98deb6a727/public_url)
+* [CompTIA Security+](https://www.credly.com/badges/c81b689a-c5b1-4b06-b3fd-c986c13c3555/public_url)
+* [CompTIA Network+](https://www.credly.com/badges/5f5106c7-cecd-416c-9999-4e753f14b3c2/public_url)
+
+---
+
+## 🎯 Current Focus
+
+**Cybersecurity | AWS | Cloud Security | AI/ML | Systems Engineering**
