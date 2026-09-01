@@ -1,18 +1,21 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
 
-<h2> AI - DDoS Anomaly Detection System</h2>
-
-<h2>Cloud Based - PACS Architecture</h2>
-
-<h2>Fortran to Java (Prorgramming)</h2>
-
+<h2> Machine Learning Systems </h2>
+- <b>AI Distributed Denial of Service Anomaly Detection System: </b>
+  - [AI/ML, cybersecurity, AWS architecture, SageMaker, DDoS defense, testing, project management]()
+  
+<h2>☁️ Cloud Architectures </h2>
+- <b> Cloud-Based Picture Archiving Solution - Research:</b>
+  - [Healthcare IT, system architecture, cloud computing, AI integration, DICOM, security/privacy, technical research]()
+  
+<h2>👨‍💻 Programming Languages</h2>
+- <b> Fortran & Java Coding: </b>
+  - [CJava, OOP, debugging, software testing, code translation, programming fundamentals]()
 
 <h2>☁️🔒 AWS Cloud security project</h2>
 
 - <b>CloudWatch Agent & Command Line Interface: </b>
   - [Creating a security alarm system in the cloud and testing](https://github.com/TechProDavid/Cloud-Security.git)
-  
-<h2>👨‍💻 AWS architecture Projects:</h2>
 
 - <b>S3 object encryption</b>
   - [Encrypting S3 Objects using SSE-KMS](https://github.com/TechProDavid/AWSencryption.git)
