@@ -1,6 +1,6 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
 
-<h2> Machine Learning Systems </h2>
+<h2>🤖 Machine Learning Systems </h2>
 - <b>AI Distributed Denial of Service Anomaly Detection System: </b>
   - [AI/ML, cybersecurity, AWS architecture, SageMaker, DDoS defense, testing, project management]()
   
