@@ -1,5 +1,11 @@
 <h1>Welcome, I'm David-Aurel! <br/> <a href="https://www.linkedin.com/in/david-aurel-djako/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Cloud Architect</a>, <a href="https://www.linkedin.com/in/david-aurel-djako/">Systems Engineer</a>
 
+<h2> AI - DDoS Anomaly Detection System</h2>
+
+<h2>Cloud Based - PACS Architecture</h2>
+
+<h2>Fortran to Java (Prorgramming)</h2>
+
 
 <h2>☁️🔒 AWS Cloud security project</h2>
 
