@@ -18,8 +18,8 @@ I build and analyze secure systems across **cybersecurity, cloud computing, AI/M
 
 * **Cloud-Based Picture Archiving Solution (PACS) — Research**
 
-  * Healthcare IT, system architecture, cloud computing, AI integration, DICOM, security/privacy, and technical research
-  * 🚧 **Repository Coming Soon**
+  * [Healthcare IT, system architecture, cloud computing, AI integration, DICOM, security/privacy, and technical research](https://github.com/TechProDavid/PACS---Research.git)
+
 
 ---
 
