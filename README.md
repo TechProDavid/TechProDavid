@@ -10,7 +10,7 @@ I build and analyze systems across **software engineering, cybersecurity, cloud 
 
 - **Fortran → Java Code Translation & Object-Oriented Design**
   - Procedural-to-object-oriented code translation, Java, OOP, debugging, compilation, software testing, and functional validation
-  - 🔗 **[View Project](ADD_REPOSITORY_LINK)**
+    🔗 **[View Project](https://github.com/TechProDavid/PACS---Research.git)
 
 - **🚑 Ambulance Dispatch & Routing System**
   - Python application using graph algorithms, priority-based dispatch, route optimization, modular software design, testing, and performance analysis
@@ -30,7 +30,7 @@ I build and analyze systems across **software engineering, cybersecurity, cloud 
 
 - **Cloud-Based, AI-Enabled Picture Archiving and Communication Systems (PACS)**
   - Healthcare IT, system architecture, cloud computing, AI integration, DICOM, cybersecurity, privacy, sustainability, and technical research
-  - 🔗 **[View Project](ADD_PACS_REPOSITORY_LINK)**
+    🔗 **[View Project](ADD_PACS_REPOSITORY_LINK)**
 
 ---
 
