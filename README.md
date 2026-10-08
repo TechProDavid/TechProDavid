@@ -23,7 +23,7 @@ I build and analyze systems across **software engineering, cybersecurity, cloud 
 
 - **AI Distributed Denial of Service Anomaly Detection System**
   - AI/ML, cybersecurity, AWS architecture, SageMaker, DDoS defense, testing, and project management
-  -🔗 [View Project](https://github.com/TechProDavid/AI-DDoS-Anomaly.git)
+  - 🔗 [View Project](https://github.com/TechProDavid/AI-DDoS-Anomaly.git)
   
 ---
 
@@ -31,7 +31,7 @@ I build and analyze systems across **software engineering, cybersecurity, cloud 
 
 - **Cloud-Based, AI-Enabled Picture Archiving and Communication Systems (PACS)**
   - Healthcare IT, system architecture, cloud computing, AI integration, DICOM, cybersecurity, privacy, sustainability, and technical research
-  -🔗 [View Project](https://github.com/TechProDavid/PACS---Research.git)
+  - 🔗 [View Project](https://github.com/TechProDavid/PACS---Research.git)
 
 ---
 
